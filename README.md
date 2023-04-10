@@ -2,6 +2,7 @@
 Curated list of awesome quantum resources, focusing on quantum software engineering and quantum applications
 
 ## Quantum SDKs
+This list covers the most popular SDKs, including Amazon Braket, Qiskit, Cirq, ProjectQ, and many others (sorted alphabetically based on the Quantum SDK name).
 | No. | Quantum SDK                   | Github link                                            |
 | --- | -----------------------------| -------------------------------------------------------|
 | 1   | Amazon Braket SDK Python     | [https://github.com/aws/amazon-braket-sdk-python](https://github.com/aws/amazon-braket-sdk-python)        |
@@ -44,6 +45,8 @@ Curated list of awesome quantum resources, focusing on quantum software engineer
 | 38  | q.js                         | [https://github.com/stewdio/q.js/](https://github.com/stewdio/q.js/)                           |
 
 ## Quantum Software Packages
+The following table lists popular quantum software that are used for developing quantum applications and tools. These software packages are sorted alphabetically based on their names and include tools such as qiskit-machine-learning, qiskit-nature, and tensorflow/quantum. 
+
 | No. | Quantum Software             | Github link                                           |
 | --- | ----------------------------| ------------------------------------------------------|
 | 1   | AgnostiqHQ/covalent          | [https://github.com/AgnostiqHQ/covalent](https://github.com/AgnostiqHQ/covalent)                      |
