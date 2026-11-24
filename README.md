@@ -64,9 +64,10 @@ The following table lists popular quantum software that are used for developing 
 | 13  | Quantumomatic/pyzx          | [https://github.com/Quantomatic/pyzx](https://github.com/Quantomatic/pyzx)                          |
 | 14  | quantumlib/OpenFermion      | [https://github.com/quantumlib/OpenFermion](https://github.com/quantumlib/OpenFermion)                  |
 | 15  | quantumlib/Stim             | [https://github.com/quantumlib/Stim](https://github.com/quantumlib/Stim)                           |
-| 16  | SoftwareQuTech/SimulaQron   | [https://github.com/SoftwareQuTech/SimulaQron](https://github.com/SoftwareQuTech/SimulaQron)               |
-| 17  | tensorflow/quantum          | [https://github.com/tensorflow/quantum](https://github.com/tensorflow/quantum)                       |
-| 18  | tqsd/QuNetSim               | [https://github.com/tqsd/QuNetSim](https://github.com/tqsd/QuNetSim)                             |
-| 19  | unitaryfund/mitiq           | [https://github.com/unitaryfund/mitiq](https://github.com/unitaryfund/mitiq)                                         |
-| 20  | vprusso/toqito              | [https://github.com/vprusso/toqito](https://github.com/vprusso/toqito)                           |
-| 21  | zapatacomputing/orqviz      | [https://github.com/zapatacomputing/orqviz](https://github.com/zapatacomputing/orqviz)                 |
+| 16  | simsaidan/ShadowSim.py      | [https://github.com/simsaidan/ShadowSim.py](https://github.com/simsaidan/ShadowSim.py)                  |
+| 17  | SoftwareQuTech/SimulaQron   | [https://github.com/SoftwareQuTech/SimulaQron](https://github.com/SoftwareQuTech/SimulaQron)               |
+| 18  | tensorflow/quantum          | [https://github.com/tensorflow/quantum](https://github.com/tensorflow/quantum)                       |
+| 19  | tqsd/QuNetSim               | [https://github.com/tqsd/QuNetSim](https://github.com/tqsd/QuNetSim)                             |
+| 20  | unitaryfund/mitiq           | [https://github.com/unitaryfund/mitiq](https://github.com/unitaryfund/mitiq)                                         |
+| 21  | vprusso/toqito              | [https://github.com/vprusso/toqito](https://github.com/vprusso/toqito)                           |
+| 22  | zapatacomputing/orqviz      | [https://github.com/zapatacomputing/orqviz](https://github.com/zapatacomputing/orqviz)                 |
